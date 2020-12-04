@@ -1,5 +1,4 @@
 # Udacity-MLEngineering
 
-Welcome to the SageMaker deployment project! In this project I have constructed a recurrent neural network for the purpose of determining the sentiment of a movie review using the IMDB data set. I have created this model using Amazon's SageMaker service. In addition, I deployed my model and constructed a simple web app which will interact with the deployed model.
-
-## Libraries Used
+This repository contains my coursework during the [Udacity Machine Learning Engineering Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t). 
+In this course, I learned advanced machine learning techniques and algorithms and how to package and deploy your models to a production environment. I gained practical experience using Amazon SageMaker to deploy trained models to a web application and evaluate the performance of your models. Further, I created A/B test models and learned how to update the models as I gathered more data, an important skill in industry.
